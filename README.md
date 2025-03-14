@@ -1,7 +1,6 @@
-<<<<<<< HEAD
 # training-iris
 py project to training machine learning
-=======
+
 ```bash
     python3 -m venv venv
     source venv/bin/activate.fish
@@ -13,4 +12,3 @@ py project to training machine learning
     # pipx completions
     deactivate
 ```
->>>>>>> d59c7bd (Initial commit)
